@@ -1,3 +1,4 @@
 intro git
 lien vers page contact
 intégration de la navbar dans index
+modif je ne sais pas quoi
